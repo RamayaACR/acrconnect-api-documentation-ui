@@ -29,7 +29,8 @@
               "items": {
                 "$ref": "#/definitions/HL7MessageListener"
               }
-            }
+            },
+            "examples": {}
           },
           "500": {
             "description": "Bad input parameter"
@@ -408,7 +409,7 @@
       }
     }
   },
-  "host": "private-a1ea5-acrconnecthl7listenerservicetest.apiary-mock.com",
+  "host": "https://gi3tqnbxhj3gk4ttnfxw4lzrfyydu3lpmnvs44dsnfzw2ltznvwa.prism.stoplight.io",
   "schemes": [
     "http"
   ]
